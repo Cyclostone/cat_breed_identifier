@@ -1,0 +1,11 @@
+0 Abyssinian
+1 American Bobtail
+2 American Curl
+3 American Shorthair
+4 American Wirehair
+5 Applehead Siamese
+6 Balinese
+7 Bengal
+8 Birman
+9 Bombay
+10 British Shorthair
